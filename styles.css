@@ -169,10 +169,10 @@ span {
     gap: 2rem;
     background: var(--snd-bg-color);
 }
-
+/* 
 .about-img img {
     width: 35vw;
-}
+} */
 
 .heading {
     text-align: center;
